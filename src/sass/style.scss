@@ -1,0 +1,22 @@
+@import "variables";
+
+body {
+  background-color: $primary;
+  color: $secondary;
+  font-size: 1em;
+  font-family: $font-stack;
+  margin: 0;
+  padding: 3em;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 2em;
+  margin: 0;
+  line-height: 1.2em;
+  text-transform: uppercase;
+}
+
+h2 {
+  margin:0;
+}
